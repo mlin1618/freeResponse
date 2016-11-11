@@ -1,6 +1,4 @@
-/**
- * Created by Nilxam on 11/10/16.
- */
+
 public class Student {
     double gpa;
     boolean honors;

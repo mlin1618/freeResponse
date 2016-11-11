@@ -1,6 +1,4 @@
-/**
- * Created by Nilxam on 11/10/16.
- */
+
 public class Code {
     private String myCode;
     private String temp;
